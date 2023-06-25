@@ -10,4 +10,5 @@ lxml
 pymysql
 bs4
 fastapi
+requests_html
 uvicorn[standard]
