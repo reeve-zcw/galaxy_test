@@ -1,0 +1,15 @@
+line-bot-sdk
+flask
+pybase64
+numpy
+requests
+Opencv-python
+os
+json
+urllib3
+requests
+lxml
+pymysql
+bs4
+fastapi
+uvicorn[standard]
