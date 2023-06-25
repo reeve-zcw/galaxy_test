@@ -4,8 +4,6 @@ pybase64
 numpy
 requests
 opencv-python
-os
-json
 urllib3
 requests
 lxml
