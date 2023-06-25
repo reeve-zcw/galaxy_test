@@ -1,8 +1,8 @@
 services:
 - type: web
-  name: line-bot-python-flask
+  name: galaxy_test
   env: python
-  repo: https://github.com/line/line-bot-sdk-python.git
+  repo: https://github.com/reeve-zcw/galaxy_test
   buildCommand: cd examples/flask-echo;pip install gunicorn -r requirements.txt
   startCommand: cd examples/flask-echo;gunicorn app:app
   plan: free
